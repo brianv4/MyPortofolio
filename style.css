@@ -30,3 +30,58 @@ nav .navbar .container-fluid .nav-link {
 nav .container-fluid .collapse .navbar-nav a {
   font-size: 0.9rem;
 }
+
+section .container-fluid .home-text .home-text-color {
+    color: #6daffe;
+  }
+  
+  section .container-lg .row .about-text-programming b {
+    color: #d08770;
+  }
+  
+  .typed::after {
+    content: "<";
+    display: inline;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+  }
+  
+  .typed-cursor {
+    opacity: 0;
+    display: none;
+  }
+  
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @-webkit-keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @-moz-keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
