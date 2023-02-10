@@ -10,7 +10,7 @@ a {
 }
 
 body {
-  background-color: #ffff;
+  background-color: #ffffff;
   color: #000;
   overflow-x: hidden;
 }
@@ -87,7 +87,7 @@ section .container-fluid .home-text .home-text-color {
   }
 
   section a {
-    color: #88c0d0;
+    color: #00c8ff;
   }
   
   section .programming .language {
