@@ -85,3 +85,34 @@ section .container-fluid .home-text .home-text-color {
       opacity: 1;
     }
   }
+
+  section a {
+    color: #88c0d0;
+  }
+  
+  section .programming .language {
+    color: #d08770;
+  }
+  
+  section .mb-4 {
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #ebcb8b;
+  }
+  
+  section .container-lg .section-title h2 {
+    color: #000;
+    text-transform: capitalize;
+  }
+  
+  section .row .about-text .bolding-text {
+    color: #d08770;
+  }
+  
+  section i {
+    color: #a3be8c;
+  }
+  
+  section img .apple-icon {
+    color: #bdc3c7;
+  }
